@@ -277,7 +277,8 @@
     }
     
     .section1 a {
-        padding-left: 40px;
+        padding: 10px;
+        margin-left: 15px;
     }
     
     .section1 {
@@ -301,7 +302,7 @@
     .section1 .style {
         border-radius: 50px;
         background: #FFF;
-        width: 110px;
+        width: 130px;
         height: 25px;
         flex-shrink: 0;
         border: 1px solid #FF42A5;
