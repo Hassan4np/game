@@ -180,6 +180,10 @@ body {
     position: relative;
 }
 
+.divimg:hover {
+    opacity: 0.8;
+}
+
 .divimgtitle {
     position: absolute;
     margin-left: 80px;
